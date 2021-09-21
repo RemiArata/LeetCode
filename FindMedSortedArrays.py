@@ -30,6 +30,3 @@ class Solution:
         else:
             self.merged.extend(nums1[i: len(nums1)])
 
-test = Solution()
-
-print(test.findMedianSortedArrays([1,2], [3, 4]))

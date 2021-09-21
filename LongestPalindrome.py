@@ -1,4 +1,4 @@
-
+'''
 class Solution:
     def longestPalindrome(self, s):
         lngst = ""
@@ -13,7 +13,9 @@ class Solution:
 test = Solution()
 
 print(test.longestPalindrome("babad"))
-
+'''
     
-    
+class Solution:
+    def longestPalindrome(self, s):
+        pass
     
